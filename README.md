@@ -14,3 +14,9 @@ This repository is part of my learning journey and will be updated regularly wit
 
 ## Author
 Sipra
+
+## Programs Included
+- Check even or odd
+- Sum of even numbers
+- Sum of odd numbers
+- Grade calculation
