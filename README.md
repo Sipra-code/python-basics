@@ -1,22 +1,33 @@
-# Python Basics
+# Python Basics & Mini Projects
 
-This repository contains basic Python programs that I am creating while learning Python.
+This repository contains Python programs and mini-projects created while learning Python fundamentals.
 
 ## Topics Covered
-- Variables and Data Types
-- Input and Output
-- Conditional Statements (if/else)
-- Loops
-- Functions (coming soon)
-
-## Purpose
-This repository is part of my learning journey and will be updated regularly with new programs and mini-projects.
-
-## Author
-Sipra
+- Variables and input/output
+- Conditional statements (if-else)
+- Loops (for)
+- Functions
+- Lists
+- GitHub version control
 
 ## Programs Included
 - Check even or odd
+- Grade calculation
 - Sum of even numbers
 - Sum of odd numbers
-- Grade calculation
+- Functions for even/odd and sums
+- List basics
+- Sum of even and odd numbers from a list
+
+## Mini Projects
+### Student Marks Analyzer
+- Calculates total marks
+- Finds average marks
+- Identifies highest and lowest scores
+
+## Tech Stack
+- Python
+- GitHub
+
+## Author
+- Sipra
